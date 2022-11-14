@@ -1,0 +1,3 @@
+This veriosn of IOT Motorhome is to run the endpoints for data collection and actions
+It was originally written on Arduino V1 IDE and needs corrections to compile with the Arduino IDE V2
+environment which has exposed a number of errors!
